@@ -1,0 +1,15 @@
+	 body {
+  position: relative;
+    padding-bottom: 60px;
+}
+#failTweet{
+
+  display : none  ;
+
+}
+
+#successTweet{
+
+ display : none  ;
+
+}
